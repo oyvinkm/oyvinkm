@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oyvinkm
-- 👀 I’m interested in Machine Learning and like problem solving with code
-- 🌱 I’m currently writing my master thesis on Graph Neuwal Networks
+- 👀 I’m interested in Machine Learning and like solving problems using code
+- 🌱 I’ve recently finished my master thesis master thesis on Graph Neuwal Networks: [Link](https://github.com/oyvinkm/msva)
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/øyvin-moxness-ab5531184)
 
 <!---
